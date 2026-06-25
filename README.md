@@ -34,4 +34,3 @@ Progressive Web App voor het bijhouden van gezondheidsgegevens.
 ## Deployment
 
 Upload alle bestanden naar GitHub Pages of SPL voor een live versie.
-"# progressive-web-app-periode-4" 
