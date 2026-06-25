@@ -21,9 +21,6 @@ Progressive Web App voor het bijhouden van gezondheidsgegevens.
 | `app.js` | JavaScript met alle functionaliteit |
 | `sw.js` | Service Worker voor offline werking |
 | `manifest.json` | PWA manifest voor installatie |
-| `GROF_ONTWERP.md` | Sitemap, paginastructuur, datamodel |
-| `REFLECTIEVERSLAG_TEMPLATE.md` | Template voor je reflectieverslag |
-| `REKENWERK.csv` | Excel-compatibel rekenwerk (6 berekeningen) |
 
 ## Rekenfunctionaliteit
 
