@@ -28,8 +28,7 @@ Progressive Web App voor het bijhouden van gezondheidsgegevens.
 2. **MET-formule**: `kcal = MET × 70kg × uren`
 3. **BMI**: `gewicht(kg) / (lengte(m))²`
 4. **Slaapduur**: `wektijd - bedtijd` (met overnachting)
-5. **Statistieken**: totaal, gemiddelde, minimum, maximum
-6. **Water percentage**: `(ingenomen / 2500) × 100`
+5. **Water percentage**: `(ingenomen / 2500) × 100`
 
 ## Deployment
 
